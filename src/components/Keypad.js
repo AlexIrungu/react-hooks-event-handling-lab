@@ -3,7 +3,7 @@ import React from "react";
 
 function Keypad (){
     function handleKey(e){
-        console.log("Entering Password");
+        console.log("Entering password...");
     }
     return (
         <div>
